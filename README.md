@@ -4,6 +4,7 @@ Home of the frogs 🐸
 
 Made by Sharkbite1024 and Slimyish
 
-<button> Games 
-<button> Cloaked Tab
+<button onclick={(Games)=>{
+router.push("/a-link")
+}}>click me</button
 
