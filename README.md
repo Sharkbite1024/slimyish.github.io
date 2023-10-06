@@ -4,4 +4,6 @@ Home of the frogs 🐸
 
 Made by Sharkbite1024 and Slimyish
 
-<button> Games
+<button> Games 
+<button> Cloaked Tab
+
